@@ -8,7 +8,7 @@ transfer messages from server and Client.
 • I tried to make frame, looks, working similar to whatsApp chatting window.
 
 
-Server page to innitiate chart first:![Screenshot (605)](https://user-images.githubusercontent.com/105808078/215044915-8b3ad46a-4110-4d41-8c34-33479ae0e691.png)
+*  Server page to innitiate chart first:![Screenshot (605)](https://user-images.githubusercontent.com/105808078/215044915-8b3ad46a-4110-4d41-8c34-33479ae0e691.png)
 
 
 
@@ -16,5 +16,5 @@ Server page to innitiate chart first:![Screenshot (605)](https://user-images.git
 
 
 
-Client page to reply and Server page To start their private Chat:
+*  Client page to reply and Server page To start their private Chat:
 ![Screenshot (606)](https://user-images.githubusercontent.com/105808078/215045273-bc0d1c84-f7f0-458e-82c2-65ca4cb16754.png)
